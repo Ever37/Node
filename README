@@ -1,0 +1,16 @@
+
+MVC - MODEL VIEW CONTROLLER
+
+Patrón de diseño de software que permite la separación
+de obligaciones de cada pieza de código en tu aplicación web.
+Enfatiza la separación de la lógica de la aplicación y la vista.
+
+https://sequelize.org/
+https://sequelize.org/master/
+https://tablericons.com/
+https://html-to-pug.com/
+
+npm run dev
+sudo npm install -g nodemon
+nodemon index.js
+npm i dotenv
